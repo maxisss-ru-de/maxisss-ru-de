@@ -91,7 +91,7 @@ where? | what?
 ### Other interests | Другие интересы
 * Stockmarket | Финансовая биржа
 
-* Travels &nbsp; | Путешествия
+* Travels &nbsp; &nbsp; | Путешествия
 
 * Sport | Спорт
 
