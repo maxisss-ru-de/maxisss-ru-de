@@ -49,7 +49,7 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 <br>
 
 <div >
-<img src="https://user-images.githubusercontent.com/69854595/201537349-dfa46e55-ab69-4b6e-aadf-2f52d0b46825.svg" alt="JavaScript" height="50" />
+<img src="https://user-images.githubusercontent.com/69854595/201537349-dfa46e55-ab69-4b6e-aadf-2f52d0b46825.svg" alt="JavaScript" height="80" />
 
 </div>
 
