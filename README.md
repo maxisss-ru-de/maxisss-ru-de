@@ -1,11 +1,10 @@
 ![github-contribution-grid-snake (1)](https://user-images.githubusercontent.com/69854595/201497399-2e0a2af5-9a88-4297-96df-d6dea0d89153.gif)
 
-# Maxim Wilhelm
-## Максим Вильхельм
+# Maxim Wilhelm | Максим Вильхельм
 
 ***
-## Java Developer, Android Developer
-### Джава Разработчик, Андроид Разработчик
+## Java Developer, Android Developer | Джава Разработчик, Андроид Разработчик
+
 
 ### **Contact information**
 * **Email**: maxim-wilhelm@hotmail.com
