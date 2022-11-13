@@ -6,7 +6,7 @@
 ## Java developer, Android developer | Java-разработчик, Android-разработчик
 
 
-### **Contact information | Контактная информация **
+### **Contact information | Контактная информация**
 **Email**: maxim-wilhelm@hotmail.com
 * <a href="https://www.instagram.com/maxisss.ru.de/">Twitter</a>
 * <a href="https://www.facebook.com/maxisssrude">Facebook</a>
