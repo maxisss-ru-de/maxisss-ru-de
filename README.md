@@ -3,7 +3,7 @@
 # Maxim Wilhelm 
 
 ***
-## Java Developer 
+## Java Developer, ## Android Developer
 
 ### **Contact information**
 * **Email**: maxim-wilhelm@hotmail.com
