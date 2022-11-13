@@ -8,7 +8,7 @@
 
 ### **Contact information | Контактная информация**
 **Email | Почта**: maxim-wilhelm@hotmail.com
-* <a href="https://www.instagram.com/maxisss.ru.de/">Twitter</a>
+* <a href="https://twitter.com/maxisssrude/">Twitter</a>
 * <a href="https://www.facebook.com/maxisssrude">Facebook</a>
 * <a href="https://www.instagram.com/maxisss.ru.de/">Instagram</a>
 
