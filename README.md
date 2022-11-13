@@ -53,7 +53,7 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Tools I have experience with | Инструменты, с которыми у меня есть опыт:
 <div>
-<img src="https://user-images.githubusercontent.com/69854595/201542470-fa69903d-0b20-46fe-83b7-a84c94f85cf8.jpg" alt="Adobe Photoshop" height="62">
+<img src="https://user-images.githubusercontent.com/69854595/201542470-fa69903d-0b20-46fe-83b7-a84c94f85cf8.jpg" alt="Adobe Photoshop" height="61">
 <img src="https://user-images.githubusercontent.com/69854595/201542079-fe359ebf-e9a8-4be5-a82a-57384178de83.png" alt="Adobe Illustrator" height="68">
 <img src="https://user-images.githubusercontent.com/69854595/201538070-c2e261c4-f2dd-460b-ad3c-302dba55d4da.jpg" alt="Android Studio" height="58">
 <img src="https://user-images.githubusercontent.com/69854595/201537666-f889135c-7bea-41d9-929c-ab2ac649e9ae.png" alt="intellij IDEA" height="50">
