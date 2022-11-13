@@ -45,7 +45,7 @@ function detectPangram($string) {
 print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R t!j:B w s C"));
 ```
 
-### Programming languages I have experience with:
+### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
 <br>
 
 <div >
