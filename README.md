@@ -16,7 +16,7 @@
   
 ***
 
-![Fa1N](https://user-images.githubusercontent.com/69854595/201501012-f1c31208-d22d-4e5b-a947-3655fe05fa6c.gif) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way. <br> <br> Привет, я Макс, младший Java-разработчик и Android-разработчик, у которого много интересов в жизни и страсть к изучению программирования и его творческому использованию. </p>
+![Fa1N](https://user-images.githubusercontent.com/69854595/201501360-fefacdaf-b2d4-4038-963e-fa229317bc17.jpg) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way. <br> <br> Привет, я Макс, младший Java-разработчик и Android-разработчик, у которого много интересов в жизни и страсть к изучению программирования и его творческому использованию. </p>
  ------------ | -------------
 
 ## My 2022-2023 goals 🏆
