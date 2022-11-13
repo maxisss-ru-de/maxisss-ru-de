@@ -48,8 +48,8 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 ### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
 <div >
 <img src="https://user-images.githubusercontent.com/69854595/201537349-dfa46e55-ab69-4b6e-aadf-2f52d0b46825.svg" alt="Java" height="80" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="55">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="CSS" height="55">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="65">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="CSS" height="65">
 </div>
 <br>
 
