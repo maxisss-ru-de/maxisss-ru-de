@@ -101,10 +101,10 @@ where? | what?
 * Books
 * Music
 
-### English level
+### English level | Уровень английского яз.
 B1
 
-### German level
+### German level | Уровень немецкого яз.
 B2-C1
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
