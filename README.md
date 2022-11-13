@@ -53,7 +53,7 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 <img src="https://user-images.githubusercontent.com/69854595/201545888-b95d7db5-30cb-4560-8670-65d9816064b3.jpg" alt="Adobe Illustrator" height="140">
 <img src="https://user-images.githubusercontent.com/69854595/201545925-120ff694-5eb4-482d-8cc1-5971a31b5169.jpg" alt="GitHub" height="140">
 <img src="https://user-images.githubusercontent.com/69854595/201545985-1b3d76a9-94d9-4568-9009-6a7f94267d05.jpg" alt="intellij IDEA" height="140">
-<img src="https://user-images.githubusercontent.com/69854595/201538070-c2e261c4-f2dd-460b-ad3c-302dba55d4da.jpg" alt="Android Studio" height="59">
+<img src="https://user-images.githubusercontent.com/69854595/201546035-bcc074c1-92a6-4cdb-9b24-690597aa815a.jpg" alt="Android Studio" height="59">
 <img src="https://user-images.githubusercontent.com/69854595/201538371-9c674154-e882-4d3a-a10e-ecb15720d795.png" alt="Sublime Text" height="50">
 
 </div>
