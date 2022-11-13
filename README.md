@@ -49,9 +49,9 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Tools I have experience with | Инструменты, с которыми у меня есть опыт:
 <div>
-<img src="https://user-images.githubusercontent.com/69854595/201545846-c32aa67b-7598-4a11-8b20-0f9ee84ac605.jpg" alt="Adobe Photoshop" height="95">
-<img src="https://user-images.githubusercontent.com/69854595/201545888-b95d7db5-30cb-4560-8670-65d9816064b3.jpg" alt="Adobe Illustrator" height="95">
-<img src="https://user-images.githubusercontent.com/69854595/201544429-0a8f406a-55be-45e6-80bc-a8e8798e6f79.png" alt="GitHub" height="72">
+<img src="https://user-images.githubusercontent.com/69854595/201545846-c32aa67b-7598-4a11-8b20-0f9ee84ac605.jpg" alt="Adobe Photoshop" height="150">
+<img src="https://user-images.githubusercontent.com/69854595/201545888-b95d7db5-30cb-4560-8670-65d9816064b3.jpg" alt="Adobe Illustrator" height="150">
+<img src="https://user-images.githubusercontent.com/69854595/201545925-120ff694-5eb4-482d-8cc1-5971a31b5169.jpg" alt="GitHub" height="150">
 <img src="https://user-images.githubusercontent.com/69854595/201537666-f889135c-7bea-41d9-929c-ab2ac649e9ae.png" alt="intellij IDEA" height="55">
 <img src="https://user-images.githubusercontent.com/69854595/201538070-c2e261c4-f2dd-460b-ad3c-302dba55d4da.jpg" alt="Android Studio" height="59">
 <img src="https://user-images.githubusercontent.com/69854595/201538371-9c674154-e882-4d3a-a10e-ecb15720d795.png" alt="Sublime Text" height="50">
