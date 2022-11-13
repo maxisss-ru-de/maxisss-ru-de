@@ -52,7 +52,7 @@
 
 * Sport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Спорт
 
-* Books &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Книги 
+* Books &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Книги 
 
 ### German level | Уровень немецкого яз.
 B2-C1
