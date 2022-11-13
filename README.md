@@ -46,14 +46,12 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 ```
 
 ### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
-<br>
 <div >
 <img src="https://user-images.githubusercontent.com/69854595/201537349-dfa46e55-ab69-4b6e-aadf-2f52d0b46825.svg" alt="JavaScript" height="80" />
 </div>
 <br>
 
-### Tools I have experience with | Инструменты, с которыми у меня есть опыт::
-<br>
+### Tools I have experience with | Инструменты, с которыми у меня есть опыт:
 <div>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="46">
 </div>
@@ -61,12 +59,10 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Other technical skills | Другие технические навыки:
 <div> 
-<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="CSS" height="50">
 <img src="https://user-images.githubusercontent.com/69854595/201537018-8a1ac4c0-60f9-4384-bae9-deb83442f560.png" alt="WORDPRESS" height="50">  
 </div>
-
 <br>
 
 ### **Education**
