@@ -47,25 +47,20 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
 <br>
-
 <div >
 <img src="https://user-images.githubusercontent.com/69854595/201537349-dfa46e55-ab69-4b6e-aadf-2f52d0b46825.svg" alt="JavaScript" height="80" />
-
 </div>
-
 <br>
 
 ### Frameworks and labraries I have experience with:
-
-<div >
 <br>
+<div>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="46">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="45">
 <img width=37px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
 <img width=50px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f5fSTWAdxYSk0IPay8pZgUarvngCQDPQTqRtyXpua7Ue47dCrBaN_DuZOtaJoo3RaFg&usqp=CAU">
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MaterialUI" height="45" />
 </div>
-
 <br>
 
 ### Other technical skills | Другие технические навыки:
