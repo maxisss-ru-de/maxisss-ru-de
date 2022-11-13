@@ -19,26 +19,6 @@
 ![Fa1N](https://user-images.githubusercontent.com/69854595/201501421-ef01f5b9-fe99-452e-957f-afad366122ab.jpg) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way. <br> <br> Привет, я Макс, младший Java-разработчик и Android-разработчик, у которого много интересов в жизни и страсть к изучению программирования и его творческому использованию. </p>
  ------------ | -------------
 
-
-# PAGE UNDER DEVELOPMENT | СТРАНИЦА В РАЗРАБОТКЕ 
-
-## Code Example
-#### **Find panagrams with php**
-<p> Pangrams are words or sentences containing every letter of the alphabet at least once; the best known English example being A quick brown fox jumps over the lazy dog.</p>
-
-```php
-function detectPangram($string) {
-    $string = array_unique(str_split
-    (strtolower(preg_replace('/[^a-z]/i', '', $string))));
-    return (count($string) > 25) ? True : False;
-    
-   
-
-}
-
-print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R t!j:B w s C"));
-```
-
 ### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
 <div >
 <img src="https://user-images.githubusercontent.com/69854595/201545725-d6c33f98-572a-4323-a7aa-9bbfdd06e9a2.jpg" alt="HTML" height="95">
