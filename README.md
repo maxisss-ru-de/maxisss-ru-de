@@ -76,13 +76,6 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="CSS" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" height="50">
-<img src="https://logowik.com/content/uploads/images/bitbucket9553.jpg" alt="Bitbucket" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/800px-Debian-OpenLogo.svg.png" alt="Debian" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/800px-Windows_logo_-_2012.svg.png" alt="Debian" height="45">
-<img src="https://www.svgrepo.com/show/331300/aws.svg" alt="AWS" height="50">
-
 </div>
 
 <br>
