@@ -61,7 +61,7 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Other technical skills | Другие технические навыки:
 <div> 
-<img src="https://user-images.githubusercontent.com/69854595/201546098-0810407d-d9cb-444e-9c93-5558f439073f.jpg" alt="WORDPRESS" height="140">   
+<img src="https://user-images.githubusercontent.com/69854595/201546098-0810407d-d9cb-444e-9c93-5558f439073f.jpg" alt="WORDPRESS" height="95">   
 </div>
 <br>
 
