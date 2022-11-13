@@ -89,17 +89,13 @@ where? | what?
 <img height="50px" src="https://scontent.ftbs3-2.fna.fbcdn.net/v/t1.6435-9/122397052_388542505858688_891968229563768666_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BKwdoo4I598AX-nbg0E&_nc_ht=scontent.ftbs3-2.fna&oh=00_AT_OqsPfSX1b0aEphBZHfyE7ozOm9vvsKq28PBN7DQIvjw&oe=6286F8CA"></a> | Javascript basics
 
 ### Other interests | Другие интересы
-* Stockmarket 
-* Финансовая биржа
+* Stockmarket | Финансовая биржа
 
-* Travels
-* Путешествия
+* Travels | Путешествия
 
-* Sport
-* Спорт
+* Sport | Спорт
 
-* Books       
-* Книги 
+* Books | Книги 
 
 
 ### English level | Уровень английского яз.
