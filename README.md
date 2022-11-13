@@ -71,7 +71,7 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 <br>
 
-### Other technical skills:
+### Other technical skills | Другие технические навыки:
 <div> 
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="50">
