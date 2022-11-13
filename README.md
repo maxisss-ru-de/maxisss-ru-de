@@ -47,13 +47,13 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
 <div >
-<img src="https://user-images.githubusercontent.com/69854595/201537349-dfa46e55-ab69-4b6e-aadf-2f52d0b46825.svg" alt="JavaScript" height="80" />
+<img src="https://user-images.githubusercontent.com/69854595/201537349-dfa46e55-ab69-4b6e-aadf-2f52d0b46825.svg" alt="Java" height="80" />
 </div>
 <br>
 
 ### Tools I have experience with | Инструменты, с которыми у меня есть опыт:
 <div>
-<img src="https://user-images.githubusercontent.com/69854595/201537666-f889135c-7bea-41d9-929c-ab2ac649e9ae.png" alt="React" height="46">
+<img src="https://user-images.githubusercontent.com/69854595/201537666-f889135c-7bea-41d9-929c-ab2ac649e9ae.png" alt="intellij IDEA" height="50">
 </div>
 <br>
 
