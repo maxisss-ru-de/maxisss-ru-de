@@ -93,9 +93,9 @@ where? | what?
 
 * Travels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Путешествия
 
-* Sport | Спорт
+* Sport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Спорт
 
-* Books | Книги 
+* Books &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Книги 
 
 
 ### English level | Уровень английского яз.
