@@ -22,12 +22,6 @@
 
 # PAGE UNDER DEVELOPMENT | СТРАНИЦА В РАЗРАБОТКЕ 
 
-## My 2022-2023 goals 🏆
-* Become professional full stack developer
-* Study abroad
-* Learn data science 
-* Improve soft and technical skills
-
 ## Code Example
 #### **Find panagrams with php**
 <p> Pangrams are words or sentences containing every letter of the alphabet at least once; the best known English example being A quick brown fox jumps over the lazy dog.</p>
