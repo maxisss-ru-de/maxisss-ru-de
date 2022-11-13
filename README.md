@@ -80,11 +80,10 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 * Books &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Книги 
 
+### German level | Уровень немецкого яз.
+B2-C1
 
 ### English level | Уровень английского яз.
 B1
-
-### German level | Уровень немецкого яз.
-B2-C1
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
