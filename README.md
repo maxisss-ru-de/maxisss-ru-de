@@ -53,7 +53,7 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Tools I have experience with | Инструменты, с которыми у меня есть опыт:
 <div>
-<img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" alt="React" height="46">
+<img src="https://user-images.githubusercontent.com/69854595/201537666-f889135c-7bea-41d9-929c-ab2ac649e9ae.png" alt="React" height="46">
 </div>
 <br>
 
