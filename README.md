@@ -59,9 +59,9 @@ print_r(detectPangram("5B!e i J x*p F h d!A:o q D y n6L%u9i.G9f2g4C a h+K!m+z:R 
 
 ### Other technical skills | Другие технические навыки:
 <div> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="CSS" height="50">
-<img src="https://user-images.githubusercontent.com/69854595/201537018-8a1ac4c0-60f9-4384-bae9-deb83442f560.png" alt="WORDPRESS" height="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="55">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="CSS" height="55">
+<img src="https://user-images.githubusercontent.com/69854595/201537018-8a1ac4c0-60f9-4384-bae9-deb83442f560.png" alt="WORDPRESS" height="55">  
 </div>
 <br>
 
