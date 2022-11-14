@@ -50,7 +50,7 @@
 
 * Travels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Путешествия
 
-* Sport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Спорт
+* Sport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Спорт
 
 * Books &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Книги 
 
