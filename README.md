@@ -17,7 +17,7 @@
   
 ***
 
-![Fa1N](https://user-images.githubusercontent.com/69854595/201501421-ef01f5b9-fe99-452e-957f-afad366122ab.jpg) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way. <br> <br> Привет, я Макс, младший Java-разработчик и Android-разработчик, у которого много интересов в жизни и страсть к изучению программирования и его творческому использованию.</p>
+![Fa1N](https://user-images.githubusercontent.com/69854595/201654299-df6057fc-e284-4122-b575-fa64865a8ddf.jpg) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way. <br> <br> Привет, я Макс, младший Java-разработчик и Android-разработчик, у которого много интересов в жизни и страсть к изучению программирования и его творческому использованию.</p>
  ------------ | -------------
 
 ### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
