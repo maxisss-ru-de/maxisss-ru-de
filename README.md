@@ -4,7 +4,7 @@
 # Maxim Wilhelm | Максим Вильхельм
 
 ***
-## Java developer & Android developer | Java-разработчик & Android-разработчик
+# Java developer & Android developer | Java-разработчик & Android-разработчик
 
 
 ### **Contact information | Контактная информация**
