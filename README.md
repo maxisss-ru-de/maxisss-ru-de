@@ -41,7 +41,7 @@
 
 ### Other technical skills | Другие технические навыки:
 <div> 
-<img src="https://user-images.githubusercontent.com/69854595/201546098-0810407d-d9cb-444e-9c93-5558f439073f.jpg" alt="WORDPRESS" height="95">   
+<img src="https://user-images.githubusercontent.com/69854595/201650630-0a2bbaa9-64f7-457a-99ba-bc424b85c713.jpg" alt="WORDPRESS" height="95">   
 </div>
 <br>
 
