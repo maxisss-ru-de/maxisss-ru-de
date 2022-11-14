@@ -54,10 +54,10 @@
 
 * Books &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Книги 
 
-### German level | Уровень немецкого яз.
+### German level | Уровень немецкого
 B2-C1
 
-### English level | Уровень английского яз.
+### English level | Уровень английского
 B1
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
