@@ -60,9 +60,4 @@ B2-C1
 ### English level | Уровень английского
 B1
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
-</p>
-
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
