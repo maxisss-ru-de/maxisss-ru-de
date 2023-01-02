@@ -1,26 +1,21 @@
-# Welcome! | Willkommen! | Добро пожаловать! 
+# Welcome! | Willkommen!
 ![github-contribution-grid-snake (1)](https://user-images.githubusercontent.com/69854595/201497399-2e0a2af5-9a88-4297-96df-d6dea0d89153.gif)
 
-# Maxim Wilhelm | Максим Вильхельм
+# Maxim Wilhelm
 
 ***
-### Java developer & Android developer | Java-разработчик & Android-разработчик
+### Java developer & Android developer
 
 
-### **Contact information | Контактная информация**
+### **Contact information**
 **Email | Почта**: maxim-wilhelm@hotmail.com
-* <a href="https://twitter.com/maxisssrude/">Twitter</a>
-* <a href="https://www.facebook.com/maxisssrude">Facebook</a>
-* <a href="https://www.instagram.com/maxisss.ru.de/">Instagram</a>
-
-
   
 ***
 
-![Fa1N](https://user-images.githubusercontent.com/69854595/201654299-df6057fc-e284-4122-b575-fa64865a8ddf.jpg) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way. <br> <br> Привет, я Макс, младший Java-разработчик и Android-разработчик, у которого много интересов в жизни и страсть к изучению программирования и его творческому использованию.</p>
+![Fa1N](https://user-images.githubusercontent.com/69854595/201654299-df6057fc-e284-4122-b575-fa64865a8ddf.jpg) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way.</p>
  ------------ | -------------
 
-### Programming languages I have experience with | Языки программирования, с которыми у меня есть опыт:
+### Programming languages I have experience with:
 <div >
 <img src="https://user-images.githubusercontent.com/69854595/201545725-d6c33f98-572a-4323-a7aa-9bbfdd06e9a2.jpg" alt="HTML" height="95">
 <img src="https://user-images.githubusercontent.com/69854595/201545753-6a66aed1-da44-4b17-913a-24d27de21b8a.jpg" alt="CSS" height="95">
@@ -28,7 +23,7 @@
 </div>
 <br>
 
-### Tools I have experience with | Инструменты, с которыми у меня есть опыт:
+### Tools I have experience with:
 <div>
 <img src="https://user-images.githubusercontent.com/69854595/201545846-c32aa67b-7598-4a11-8b20-0f9ee84ac605.jpg" alt="Adobe Photoshop" height="140">
 <img src="https://user-images.githubusercontent.com/69854595/201545888-b95d7db5-30cb-4560-8670-65d9816064b3.jpg" alt="Adobe Illustrator" height="140">
@@ -39,25 +34,25 @@
 </div>
 <br>
 
-### Other technical skills | Другие технические навыки:
+### Other technical skills:
 <div> 
 <img src="https://user-images.githubusercontent.com/69854595/201650630-0a2bbaa9-64f7-457a-99ba-bc424b85c713.jpg" alt="WORDPRESS" height="140">   
 </div>
 <br>
 
-### Other interests | Другие интересы
-* Stockmarket | Финансовая биржа
+### Other interests
+* Stockmarket
 
-* Travels &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Путешествия
+* Travels
 
-* Sport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Спорт
+* Sport
 
-* Books &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Книги 
+* Books
 
-### German level | Уровень немецкого
+### German level
 B2-C1
 
-### English level | Уровень английского
+### English level
 B1
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
