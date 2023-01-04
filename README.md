@@ -12,7 +12,7 @@
   
 ***
 
-![Fa1N](https://user-images.githubusercontent.com/69854595/201654299-df6057fc-e284-4122-b575-fa64865a8ddf.jpg) | <p align="left"> ### Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way.</p>
+![Fa1N](https://user-images.githubusercontent.com/69854595/201654299-df6057fc-e284-4122-b575-fa64865a8ddf.jpg) | <p align="left"> Hello, I'm Max, junior Java developer and Android developer, who has many interests in life and passion to study programming and use it in a creative way.</p>
  ------------ | -------------
 
 ### Programming languages I have experience with:
