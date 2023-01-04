@@ -8,7 +8,7 @@
 
 
 ### **Contact information**
-**Email | Почта**: maxim-wilhelm@hotmail.com
+**Email**: maxim-wilhelm@hotmail.com
   
 ***
 
